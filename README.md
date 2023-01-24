@@ -2,7 +2,7 @@
 
 
 
-### <p align="center">  ❤ I'm currently working on Data Analytics / Dev Ops, and computer science teaching.</p>
+### <p align="center">  🚀 I'm currently working on Data Analytics / Dev Ops, and computer science teaching.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hgcobos">
@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in Data Analysis, Machine Learning and Data Engineering. 
 - 🌱 I’m learning mobile development
-- 💞️ I would love to learn more about blockchain and native machine learning applications for mobile devices. 
+- 📚 I would love to learn more about blockchain and native machine learning applications for mobile devices. 
  <div align="center">
    <img src="https://raw.githubusercontent.com/HesusG/courses/main/img/thi.png" width="200"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><p></br>&nbsp;</br></p>
