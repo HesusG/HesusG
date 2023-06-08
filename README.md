@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesuG's github stats"></a>
+  <a href="https://github.com/HesusG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesuG's github stats"></a>
 </p>
 
 
