@@ -3,13 +3,13 @@
 
 
 ### <p align="center">  🚀 I'm currently working on Data Analytics / Dev Ops, and computer science teaching.</p>
-
+[comment]: <> (
 <div align="center">
   <a href="https://www.linkedin.com/in/hgcobos">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+)
 
 
 - 👀 I’m interested in Data Analysis, Machine Learning and Data Engineering. 
