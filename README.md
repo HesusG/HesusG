@@ -1,39 +1,46 @@
-<h1 align='center'> 👋 Hello! <br>I’m Hesus </h1>
+<h1 align='center'>👋 Hey there! I'm <strong>Hesus</strong></h1>
 
-
-
-### <p align="center">  🚀 I'm currently working on Data Analytics / Dev Ops, and computer science teaching.</p>
-<!---
-<div align="center">
-  <a href="https://www.linkedin.com/in/hgcobos">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
--->
-
-
-- 👀 I’m interested in Data Analysis, Machine Learning and Data Engineering. 
-- 🌱 I’m learning mobile development
-- 📚 I would love to learn more about blockchain and native machine learning applications for mobile devices. 
- <div align="center">
-   <img src="https://raw.githubusercontent.com/HesusG/courses/main/img/thi.png" width="200"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><p></br>&nbsp;</br></p>
-</div>
-
-<h1 align='center'> TechStack </h1>
 <p align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/azuredevops/00ccff99" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/00ccff99" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/python/00ccff99" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/00ccff99" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/tidyverse/00ccff99" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/r/00ccff99" />&nbsp;<img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/00ccff99" /> </p>
+🎓 <strong>Curriculum Developer</strong> | 📊 <strong>Data Science Educator</strong> | 🚀 <strong>Lifelong Learner</strong><br>
+<i>Designing learning experiences that bridge technology & curiosity</i>
+</p>
 
+---
 
+### 🌟 About Me  
+- 💡 I craft educational content on **AI, machine learning, LLMs, and data analytics**.  
+- 🛠 My toolbox includes **Python**, **SQL**, **Elasticsearch**, **Azure**, **Django**, and more.  
+- 🎨 Passionate about **instructional design**, I apply the **ADDIE model** to create learner-centered curricula.  
+- 📚 Currently pursuing a **Master’s in Pedagogy** to deepen my impact on tech education.  
+- ✨ I believe in **education that inspires, empowers, and transforms**.
 
+---
+
+### ⚡ Tech Stack  
+<p align="center">
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/005571" />&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/django/092E20" />&nbsp;
+</p>
+
+---
+
+### 📈 GitHub Stats  
 <p align="center">
   <a href="https://github.com/HesusG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesuG's github stats"></a>
 </p>
 
+---
 
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hgcobos">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-
-<!---
-HesusG/HesusG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</p>
