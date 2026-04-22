@@ -27,26 +27,6 @@
   everything
   - Context engineering
 
-  ### Built with
-
- <p align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"
-  />&nbsp;&nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57"
-  />&nbsp;&nbsp;
-    <img height="32" width="32"
-  src="https://cdn.simpleicons.org/elasticsearch/005571" />&nbsp;&nbsp;
-    <img height="32" width="32"
-  src="https://cdn.simpleicons.org/streamlit/FF4B4B" />&nbsp;&nbsp;
-    <img height="32" width="32"
-  src="https://cdn.simpleicons.org/raspberrypi/A22846" />&nbsp;&nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2"
-  />&nbsp;&nbsp;
-    <img height="32" width="32"
-  src="https://cdn.simpleicons.org/tailscale/242424" />
-  </p>
-
-
 
 
   -
