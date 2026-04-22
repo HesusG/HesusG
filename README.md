@@ -46,20 +46,7 @@
   />&nbsp;
   </p>
 
-  ---
 
-  <p align="center">
-    <a href="https://github.com/HesusG"><img src="https://github-readme-stats.ver
-  cel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesusG's github
-  stats"></a>
-  </p>
-
-  ---
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/hgcobos">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&lo
-  go=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </p>
 
   ---
