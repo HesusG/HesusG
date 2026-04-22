@@ -1,46 +1,73 @@
-<h1 align='center'>👋 Hey there! I'm <strong>Hesus</strong></h1>
+ <h1 align='center'>Hey, I'm Hesus</h1>
 
-<p align="center">
-🎓 <strong>Curriculum Developer</strong> | 📊 <strong>Data Science Educator</strong> | 🚀 <strong>Lifelong Learner</strong><br>
-<i>Designing learning experiences that bridge technology & curiosity</i>
-</p>
+  <p align="center">
+  <strong>Curriculum Developer at DeepLearning.AI</strong><br>
+  I make AI courses for Coursera. I also break things on my Raspberry Pi.
+  </p>
 
----
+  ---
 
-### 🌟 About Me  
-- 💡 I craft educational content on **AI, machine learning, LLMs, and data analytics**.  
-- 🛠 My toolbox includes **Python**, **SQL**, **Elasticsearch**, **Azure**, **Django**, and more.  
-- 🎨 Passionate about **instructional design**, I apply the **ADDIE model** to create learner-centered curricula.  
-- 📚 Currently pursuing a **Master’s in Pedagogy** to deepen my impact on tech education.  
-- ✨ I believe in **education that inspires, empowers, and transforms**.
+  ### Currently
 
----
+  - Writing course content on RAG and context engineering at DeepLearning.AI
+  - Running a Pi 5 as a home server — dashboards, scrapers, Telegram bots,
+  Pi-hole
+  - Researching how AI actually changes what teachers need to know in LATAM
 
-### ⚡ Tech Stack  
-<p align="center">
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/005571" />&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/django/092E20" />&nbsp;
-</p>
+  ### I also build small tools when I need them
 
----
+  - Automated teacher interviewer for hiring
+  - Curriculum analyzer for education policy research
+  - Review queue monitor with SLA alerts (Playwright + Telegram + systemd)
 
-### 📈 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/HesusG"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesuG's github stats"></a>
-</p>
+  ### Interests outside of work
 
----
+  - Self-hosting, OpenWrt, nftables, making small devices do useful things
+  - Education policy — how institutions should adapt, not just add "AI" to
+  everything
+  - Context engineering
 
-### 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/hgcobos">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+  ### Built with
 
-<p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</p>
+  <p align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/3776AB"
+  />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/003B57"
+  />&nbsp;
+  <img height="32" width="32"
+  src="https://cdn.simpleicons.org/elasticsearch/005571" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit/FF4B4B"
+  />&nbsp;
+  <img height="32" width="32"
+  src="https://cdn.simpleicons.org/raspberrypi/A22846" />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/openwrt/00B5E2"
+  />&nbsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/tailscale/242424"
+  />&nbsp;
+  </p>
+
+  ---
+
+  <p align="center">
+    <a href="https://github.com/HesusG"><img src="https://github-readme-stats.ver
+  cel.app/api/top-langs/?username=HesusG&layout=compact" alt="HesusG's github
+  stats"></a>
+  </p>
+
+  ---
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hgcobos">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&lo
+  go=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </p>
+
+  ---
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hgcobos">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&lo
+  go=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </p>
+
