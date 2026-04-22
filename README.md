@@ -26,7 +26,3 @@
   - Education policy — how institutions should adapt, not just add "AI" to
   everything
   - Context engineering
-
-
-
-  -
